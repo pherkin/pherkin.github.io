@@ -1,0 +1,9 @@
+title: Pherkin - Cucumber for Perl
+description: Test::BDD::Cucumber website
+# logo: /wsl.png
+google_analytics: 
+show_downloads: false
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
